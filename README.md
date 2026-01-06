@@ -75,6 +75,8 @@ High-level metrics dashboard showing:
 - Churn Rate % by Region, Channel, Gender, Loyalty Tier
 - Repeat Rate % and Average CLV
 - Funnel chart: Customer journey (Total → Repeat → Churned)
+-<a href="<img width="875" height="422" alt="image" src="https://github.com/user-attachments/assets/a46a7de3-98a1-41bf-bbab-d4461a560e4a"> </a>
+
 
 ### **Page 2: Loyalty & Promotion Impact**
 Deep dive into loyalty program and promotion effectiveness:
