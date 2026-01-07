@@ -275,9 +275,10 @@ This project demonstrates expertise in:
 ## 👤 Author
 
 **Akshay Jariyal**  
-Data Science Learner | Data Analyst (In Training)  
+Data Science | Data Analyst   
+
 📧 **ajaries1997@gmail.com**  
-📍 Shimla, Himachal Pradesh, India
+   **www.linkedin.com/in/akshay-jariyal-37aa39174**
 
 ---
 
